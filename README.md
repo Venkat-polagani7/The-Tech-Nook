@@ -6,9 +6,15 @@ I am a passionate and dedicated Computer Science Engineering (CSE) student with 
 I thrive in the world of coding and enjoy taking on challenging projects that allow me to apply my skills and learn new technologies. 
 With a keen interest in project and product management, I strive to create innovative solutions that deliver exceptional user experiences.
 
-
-
-Skills: JAVA / HTML / CSS / JAVASCRIPT / NODE JS / SQL / MONGODB / GCP
+# Skills: 
+https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png  JAVA 
+HTML 
+CSS
+JAVASCRIPT
+NODE JS
+SQL
+MONGODB
+GCP
 
 - 🔭 I’m currently working on Software Development 
 - 🌱 I’m currently learning Competitive Programming and Project management 
@@ -20,10 +26,8 @@ Skills: JAVA / HTML / CSS / JAVASCRIPT / NODE JS / SQL / MONGODB / GCP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Venkat-polagani7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/venkatgoudpolagani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/1817_venkat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Venkat_Goud_P/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Venkat_Goud_P?hr_r=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/venkat_p/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat-polagani7)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkat-polagani7&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Venkat-polagani7)  
 
-![Profile views](https://gpvc.arturio.dev/Venkat-polagani7)  
+
