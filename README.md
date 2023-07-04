@@ -9,8 +9,11 @@ With a keen interest in project and product management, I strive to create innov
 
 # Skills: 
 ☕️ JAVA
+
 💻 HTML,CSS,JAVASCRIPT 
+
 👨‍💻 NODE JS MONGODB
+
 ☁️ GCP
 
 - 🔭 I’m currently working on Software Development 
