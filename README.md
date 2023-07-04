@@ -3,4 +3,7 @@ HeLLo....!👋, I'm Venkat Goud P, a BTECH CSE student with a keen interest in S
 
 
 
+My Tech Stack 
+Java HTML5 CSS3 Bootstrap JavaScript NodeJs MySQL MongoDB Google Cloud VS Code IntelliJIDEA Git
 
+ 
